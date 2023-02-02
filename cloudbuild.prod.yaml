@@ -26,7 +26,7 @@ steps:
 
 substitutions:
     _FUNCTION_PROJECT : PROD
-    _FUNCTION_NAME    : est_resume
+    _FUNCTION_NAME    : resume
     _FUNCTION_REGION  : europe-west3
     _FUNCTION_RUNTIME : Python 3.7
     _ENTRY_POINT      : europe-west3
